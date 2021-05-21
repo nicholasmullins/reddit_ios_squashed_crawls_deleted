@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeButton", 
+    "content-desc": "Home", 
+    "enabled": true, 
+    "hash": "Lfuv2MuXLmmTBa6ROyMcZQ==\n", 
+    "height": 147.0, 
+    "hier_level": 71, 
+    "human_hash": "XCUIElementTypeButton_X6.0_Y2199.0_W213.0_H147.0", 
+    "human_readable": "XCUIElementTypeButton_6.0_2199.0_213.0_147.0_XCUIElementTypeButton_ffffffffffffffffff3ffe3ffc3ff81ff81ff81ffc3ffe7fffffffffffffffff_2f7bb230c70819aeb10b45a709bcf48f", 
+    "image_path": "MzE1Y2JhNzZmZDA0OTgxNzYzNTU1NDM1MDM4ZjZmNzM.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "Home", 
+    "screen_hash": "1cc0b0c1d4ae929abe3113cff651daa7", 
+    "tag_name": "XCUIElementTypeButton", 
+    "text": "1", 
+    "width": 213.0, 
+    "x": 6.0, 
+    "y": 2199.0
+}

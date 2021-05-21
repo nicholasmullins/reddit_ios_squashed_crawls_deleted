@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeStaticText", 
+    "content-desc": "Sign up / Log in", 
+    "enabled": true, 
+    "hash": "vSztaqGvme4y8UTQAYeVLA==\n", 
+    "height": 57.0, 
+    "hier_level": 12, 
+    "human_hash": "XCUIElementTypeStaticText_X153.0_Y915.0_W327.0_H57.0", 
+    "human_readable": "XCUIElementTypeStaticText_153.0_915.0_327.0_57.0_XCUIElementTypeStaticText_ffffffffffff3fbd3fbf04a000a000800004802000800880dd7bdd73ffffffff_50c0d5c2f2c83b7b00f1d627ba938d1c", 
+    "image_path": "NTUwOWI0NzkxMjc4ZjIyNDczYjkxZWU5NTQ3ZmYwYmQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "resource-id": "Sign up / Log in", 
+    "screen_hash": "fc6a667dc15b497ec016702a2e95dd27", 
+    "tag_name": "XCUIElementTypeStaticText", 
+    "text": "Sign up / Log in", 
+    "width": 327.0, 
+    "x": 153.0, 
+    "y": 915.0
+}

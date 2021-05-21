@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeButton", 
+    "content-desc": "Already a redditor? Log In", 
+    "enabled": true, 
+    "hash": "BvggX5U1o1rPSXbsBpAUZg==\n", 
+    "height": 93.0, 
+    "hier_level": 85, 
+    "human_hash": "XCUIElementTypeButton_X294.0_Y2181.0_W537.0_H93.0", 
+    "human_readable": "XCUIElementTypeButton_294.0_2181.0_537.0_93.0_XCUIElementTypeButton_ffffffffffffffffffff7f6f00000000000000100000f7f9ffffffffffffffff_a8a6b1fa35cefb74f3a4f1d2a89533ce", 
+    "image_path": "ODEwOWRlZDE3NDUzM2I0OTUzZTExNjc5YTYyNTU0Yjk.png", 
+    "index": "4", 
+    "is_transformed": true, 
+    "resource-id": "Already a redditor? Log In", 
+    "screen_hash": "d2229489ab206608de76cdd0e39c1f08", 
+    "tag_name": "XCUIElementTypeButton", 
+    "text": "Already a redditor? Log In", 
+    "width": 537.0, 
+    "x": 294.0, 
+    "y": 2181.0
+}

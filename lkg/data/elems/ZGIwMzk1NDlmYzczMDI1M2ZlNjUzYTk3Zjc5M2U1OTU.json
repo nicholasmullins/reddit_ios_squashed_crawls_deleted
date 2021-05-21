@@ -1,0 +1,19 @@
+{
+    "class": "XCUIElementTypeSecureTextField", 
+    "content-desc": "", 
+    "enabled": true, 
+    "hash": "QLsfxK4r3cFaP7tC6lFTpQ==\n", 
+    "height": 144.0, 
+    "hier_level": 91, 
+    "human_hash": "XCUIElementTypeSecureTextField_X48.0_Y1032.0_W1029.0_H144.0", 
+    "human_readable": "XCUIElementTypeSecureTextField_48.0_1032.0_1029.0_144.0_XCUIElementTypeSecureTextField_ffffffffffffffffffffffff2ffc0ffc0ffc0ffcffffffffffffffffffffffff_f79a2d4160d7a6f3a47db777a5f49b1c", 
+    "image_path": "ZGIwMzk1NDlmYzczMDI1M2ZlNjUzYTk3Zjc5M2U1OTU.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "screen_hash": "5d5eac8094af3f122dc52539429a56fe", 
+    "tag_name": "XCUIElementTypeSecureTextField", 
+    "text": "Password", 
+    "width": 1029.0, 
+    "x": 48.0, 
+    "y": 1032.0
+}

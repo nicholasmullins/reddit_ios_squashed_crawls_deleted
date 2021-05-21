@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeStaticText", 
+    "content-desc": "r/LssAutomation", 
+    "enabled": true, 
+    "hash": "XDLb6b9FQLP3KLDW9q6l4w==\n", 
+    "height": 54.0, 
+    "hier_level": 40, 
+    "human_hash": "XCUIElementTypeStaticText_X192.0_Y1632.0_W354.0_H54.0", 
+    "human_readable": "XCUIElementTypeStaticText_192.0_1632.0_354.0_54.0_XCUIElementTypeStaticText_ffffffffffffbffbbaf7aa570000200000000000200000008400ffffffffffff_4706d46edb8b672b47a445da53ac6ad4", 
+    "image_path": "MDFkNWRiNDA5NmM3OTU0YzI1YjNhNjVlNWE2OGRkZDA.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "r/LssAutomation", 
+    "screen_hash": "6eb65e08c72b4eca82865114a16af37e", 
+    "tag_name": "XCUIElementTypeStaticText", 
+    "text": "r/LssAutomation", 
+    "width": 354.0, 
+    "x": 192.0, 
+    "y": 1632.0
+}

@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeButton", 
+    "content-desc": "Browse", 
+    "enabled": true, 
+    "hash": "jYJc2ggz/ApmC/dOZ+9jjQ==\n", 
+    "height": 147.0, 
+    "hier_level": 71, 
+    "human_hash": "XCUIElementTypeButton_X231.0_Y2199.0_W213.0_H147.0", 
+    "human_readable": "XCUIElementTypeButton_231.0_2199.0_213.0_147.0_XCUIElementTypeButton_fffffffffffffffffdbff83ff81ff83ffc3ff81ffc1fffffffffffffffffffff_4831e469267bafe7a72e58a0dfbb0e4f", 
+    "image_path": "YTBlZjk3YTJlZmM1NTgzZDE1OTdiMGExMGExNWZlNjQ.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "resource-id": "Browse", 
+    "screen_hash": "1cc0b0c1d4ae929abe3113cff651daa7", 
+    "tag_name": "XCUIElementTypeButton", 
+    "text": "Browse", 
+    "width": 213.0, 
+    "x": 231.0, 
+    "y": 2199.0
+}

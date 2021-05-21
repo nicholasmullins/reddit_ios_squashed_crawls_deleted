@@ -1,0 +1,19 @@
+{
+    "class": "XCUIElementTypeTextField", 
+    "content-desc": "", 
+    "enabled": true, 
+    "hash": "vU+XXS1pcejnpoHW+jFxMg==\n", 
+    "height": 147.0, 
+    "hier_level": 91, 
+    "human_hash": "XCUIElementTypeTextField_X48.0_Y1137.0_W1029.0_H147.0", 
+    "human_readable": "XCUIElementTypeTextField_48.0_1137.0_1029.0_147.0_XCUIElementTypeTextField_ffffffffffffffffffffffff0fff07ff07ff07ffffffffffffffffffffffffff_99082d2ace80bbc9612e4aa251a6ad87", 
+    "image_path": "OTFjMjExNDMwYWM5MDg1MmNjNWQyOTBlNTA1MzNlY2E.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "screen_hash": "7a7aaf397f69f17779a96a0d7b1990b0", 
+    "tag_name": "XCUIElementTypeTextField", 
+    "text": "Username", 
+    "width": 1029.0, 
+    "x": 48.0, 
+    "y": 1137.0
+}

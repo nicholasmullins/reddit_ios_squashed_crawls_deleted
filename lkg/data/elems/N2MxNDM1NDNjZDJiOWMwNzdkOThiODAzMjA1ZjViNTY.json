@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeButton", 
+    "content-desc": "Skip", 
+    "enabled": true, 
+    "hash": "wXH8gQBQ1NfCm8pKkl0Niw==\n", 
+    "height": 132.0, 
+    "hier_level": 8, 
+    "human_hash": "XCUIElementTypeButton_X972.0_Y132.0_W129.0_H132.0", 
+    "human_readable": "XCUIElementTypeButton_972.0_132.0_129.0_132.0_XCUIElementTypeButton_000000000000000000006c80fdb0eff87ee8fff8697000400000000000000018_47cce5564cd25f55ec7f53cf0c317a0d", 
+    "image_path": "N2MxNDM1NDNjZDJiOWMwNzdkOThiODAzMjA1ZjViNTY.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "Skip", 
+    "screen_hash": "8ca91af21e27e3495261017d3f35574d", 
+    "tag_name": "XCUIElementTypeButton", 
+    "text": "Skip", 
+    "width": 129.0, 
+    "x": 972.0, 
+    "y": 132.0
+}

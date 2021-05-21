@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeStaticText", 
+    "content-desc": "Discard", 
+    "enabled": true, 
+    "hash": "GL8FlYYjzqDnV0hAy22qHg==\n", 
+    "height": 147.0, 
+    "hier_level": 68, 
+    "human_hash": "XCUIElementTypeStaticText_X180.0_Y2019.0_W873.0_H147.0", 
+    "human_readable": "XCUIElementTypeStaticText_180.0_2019.0_873.0_147.0_XCUIElementTypeStaticText_ffffffffffffffffffffffff0fff0fff0fff0fffffffffffffffffffffffffff_4b6e4c12f994f6d01438a1d7ac12ed6f", 
+    "image_path": "ZjAxZWUzOTUwMmViMTM4YmEyMWEyNWU4ZDNkMzZmODM.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "Discard", 
+    "screen_hash": "56e8d4ca0a68f6532d0bdf14056a41d9", 
+    "tag_name": "XCUIElementTypeStaticText", 
+    "text": "Discard", 
+    "width": 873.0, 
+    "x": 180.0, 
+    "y": 2019.0
+}

@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeStaticText", 
+    "content-desc": "Communities", 
+    "enabled": true, 
+    "hash": "h/YQgFCYwwi2EWix3NqXhQ==\n", 
+    "height": 57.0, 
+    "hier_level": 83, 
+    "human_hash": "XCUIElementTypeStaticText_X402.0_Y528.0_W285.0_H57.0", 
+    "human_readable": "XCUIElementTypeStaticText_402.0_528.0_285.0_57.0_XCUIElementTypeStaticText_ffffffffffff3fe73fef14a64000400140000000000200007f7effffffffffff_851c86f163c1f6d92578f0d71a74bcaa", 
+    "image_path": "YWRmY2FlNmE3MzVjZmNlMzVmZjlkYzI2M2EwMTJhNDc.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "Communities", 
+    "screen_hash": "38b89fa71c7e6147ca07c99d8663a345", 
+    "tag_name": "XCUIElementTypeStaticText", 
+    "text": "Communities", 
+    "width": 285.0, 
+    "x": 402.0, 
+    "y": 528.0
+}

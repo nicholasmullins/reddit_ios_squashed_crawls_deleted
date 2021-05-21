@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeOther", 
+    "content-desc": "User profile drawer", 
+    "enabled": true, 
+    "hash": "Frf2F2xFHUn2h2Y3Subpog==\n", 
+    "height": 132.0, 
+    "hier_level": 11, 
+    "human_hash": "XCUIElementTypeOther_X48.0_Y132.0_W96.0_H132.0", 
+    "human_readable": "XCUIElementTypeOther_48.0_132.0_96.0_132.0_XCUIElementTypeOther_ffffffffffffffffc07f801f000f000f000f000f801fe03ff9ffffffffffffff_df1a9db3688dcc86c3c25f820cde692f", 
+    "image_path": "NzNjYzA3ZTUxZmI4OTI2MGE2ZDQ0NDNjOWQxYWZkMzY.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "User profile drawer", 
+    "screen_hash": "25cb1eb5b0430dc83a846c82e2b7beea", 
+    "tag_name": "XCUIElementTypeOther", 
+    "text": "User profile drawer", 
+    "width": 96.0, 
+    "x": 48.0, 
+    "y": 132.0
+}

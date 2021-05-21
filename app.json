@@ -1,0 +1,7 @@
+{
+    "_id": "a3f283ac-3cb9-496c-9351-5b2abb86cf1c", 
+    "created": "2021-05-17 18:04:27.295663", 
+    "default_package": "com.reddit.inhouse.qa", 
+    "name": "Reddit", 
+    "platform": "ios"
+}

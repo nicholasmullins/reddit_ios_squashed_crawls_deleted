@@ -1,0 +1,9 @@
+{
+    "_id": "6dd5b704-98ac-46ed-ada2-c69fc112306d", 
+    "app": "/Users/bot/test_ai/apps/a3f283ac-3cb9-496c-9351-5b2abb86cf1c/builds/6dd5b704-98ac-46ed-ada2-c69fc112306d/app/com.reddit.inhouse.qa-1.ipa", 
+    "app_id": "a3f283ac-3cb9-496c-9351-5b2abb86cf1c", 
+    "created": "2021-05-17 18:04:46.754232", 
+    "package": "com.reddit.inhouse.qa", 
+    "platform": "ios", 
+    "version": "1"
+}

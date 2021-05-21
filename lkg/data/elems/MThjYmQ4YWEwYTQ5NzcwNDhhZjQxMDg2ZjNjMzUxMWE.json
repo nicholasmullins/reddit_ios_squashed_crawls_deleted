@@ -1,0 +1,18 @@
+{
+    "class": "XCUIElementTypeTextView", 
+    "enabled": true, 
+    "hash": "IdH1r8CGzQZC9RLGsGGU3Q==\n", 
+    "height": 111.0, 
+    "hier_level": 62, 
+    "human_hash": "XCUIElementTypeTextView_X48.0_Y618.0_W1029.0_H111.0", 
+    "human_readable": "XCUIElementTypeTextView_48.0_618.0_1029.0_111.0_XCUIElementTypeTextView_ffffffffffffffffffff4cff00ff00ff00ff00ff00ffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MThjYmQ4YWEwYTQ5NzcwNDhhZjQxMDg2ZjNjMzUxMWE.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "screen_hash": "9f2c3feabf8fcce67c2f77d43c07a6bd", 
+    "tag_name": "XCUIElementTypeTextView", 
+    "text": "", 
+    "width": 1029.0, 
+    "x": 48.0, 
+    "y": 618.0
+}

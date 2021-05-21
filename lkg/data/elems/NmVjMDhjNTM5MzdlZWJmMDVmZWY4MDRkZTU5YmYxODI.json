@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeStaticText", 
+    "content-desc": "Logout", 
+    "enabled": true, 
+    "hash": "+0XgfJxwT2+OrR0VHAY/MA==\n", 
+    "height": 57.0, 
+    "hier_level": 116, 
+    "human_hash": "XCUIElementTypeStaticText_X180.0_Y2076.0_W150.0_H57.0", 
+    "human_readable": "XCUIElementTypeStaticText_180.0_2076.0_150.0_57.0_XCUIElementTypeStaticText_ffffffffffff7fff7ffc64bc640060004040404840000400a6b6fcfffcffffff_7e89fa2702b9a5b850d00703548bb004", 
+    "image_path": "NmVjMDhjNTM5MzdlZWJmMDVmZWY4MDRkZTU5YmYxODI.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "Logout", 
+    "screen_hash": "2cd45e564a3d034af0464a5ca5a2de6b", 
+    "tag_name": "XCUIElementTypeStaticText", 
+    "text": "Logout", 
+    "width": 150.0, 
+    "x": 180.0, 
+    "y": 2076.0
+}

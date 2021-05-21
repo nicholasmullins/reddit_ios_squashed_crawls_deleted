@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeStaticText", 
+    "content-desc": "r/politics", 
+    "enabled": true, 
+    "hash": "vOUi9xXWGYRnFnhZD41Pow==\n", 
+    "height": 57.0, 
+    "hier_level": 25, 
+    "human_hash": "XCUIElementTypeStaticText_X192.0_Y642.0_W189.0_H57.0", 
+    "human_readable": "XCUIElementTypeStaticText_192.0_642.0_189.0_57.0_XCUIElementTypeStaticText_ffffffffffffde6fde1fde9f00000000400d00040002000009548fff8fffffff_83ba39b9b4efc0b8f395e720592773c2", 
+    "image_path": "NWQ0NDc4ZGI0MGU5NzM3YTczOTc5YjgzOGFjZjc4YjY.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "r/politics", 
+    "screen_hash": "38b89fa71c7e6147ca07c99d8663a345", 
+    "tag_name": "XCUIElementTypeStaticText", 
+    "text": "r/politics", 
+    "width": 189.0, 
+    "x": 192.0, 
+    "y": 642.0
+}

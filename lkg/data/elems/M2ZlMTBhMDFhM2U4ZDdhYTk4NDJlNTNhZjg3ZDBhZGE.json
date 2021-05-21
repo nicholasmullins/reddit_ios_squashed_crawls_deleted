@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeButton", 
+    "content-desc": "icon close 24", 
+    "enabled": true, 
+    "hash": "Y/Sw3F1UiCo3G/FVaCVUTw==\n", 
+    "height": 132.0, 
+    "hier_level": 53, 
+    "human_hash": "XCUIElementTypeButton_X24.0_Y180.0_W129.0_H132.0", 
+    "human_readable": "XCUIElementTypeButton_24.0_180.0_129.0_132.0_XCUIElementTypeButton_ffffffffffffffffffff9cffc1ffe3ffc3ff88ff9cffffffffffffffffffffff_7fb361b2c3cebd1f3855da068d4b1048", 
+    "image_path": "M2ZlMTBhMDFhM2U4ZDdhYTk4NDJlNTNhZjg3ZDBhZGE.png", 
+    "index": "0", 
+    "is_transformed": true, 
+    "resource-id": "icon close 24", 
+    "screen_hash": "d29650fd9d4c68144cd70d4f37e79342", 
+    "tag_name": "XCUIElementTypeButton", 
+    "text": "icon close 24", 
+    "width": 129.0, 
+    "x": 24.0, 
+    "y": 180.0
+}

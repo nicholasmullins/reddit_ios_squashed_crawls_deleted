@@ -1,0 +1,20 @@
+{
+    "class": "XCUIElementTypeButton", 
+    "content-desc": "icon logout 20", 
+    "enabled": true, 
+    "hash": "uq+sNxBIEc7no0qIHkwywA==\n", 
+    "height": 63.0, 
+    "hier_level": 116, 
+    "human_hash": "XCUIElementTypeButton_X993.0_Y1785.0_W60.0_H63.0", 
+    "human_readable": "XCUIElementTypeButton_993.0_1785.0_60.0_63.0_XCUIElementTypeButton_fffff803f003f3f9f3f9fe79ff3980198019fe39fe79f3f9f3f9f003f807ffff_244961745f8d7d3a167eb0807dfd8904", 
+    "image_path": "NTI4MjMxMzdjODBiNjY1MWQxYWM4OWRlNDlkMzc5N2U.png", 
+    "index": "1", 
+    "is_transformed": true, 
+    "resource-id": "icon logout 20", 
+    "screen_hash": "355a2264b9348fef1703712f23e1d788", 
+    "tag_name": "XCUIElementTypeButton", 
+    "text": "icon logout 20", 
+    "width": 60.0, 
+    "x": 993.0, 
+    "y": 1785.0
+}

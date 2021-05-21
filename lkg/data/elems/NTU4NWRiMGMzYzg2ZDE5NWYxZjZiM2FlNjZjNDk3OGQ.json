@@ -1,0 +1,18 @@
+{
+    "class": "XCUIElementTypeButton", 
+    "enabled": true, 
+    "hash": "LH5GEFJQFcxnF252QR0gKw==\n", 
+    "height": 147.0, 
+    "hier_level": 71, 
+    "human_hash": "XCUIElementTypeButton_X456.0_Y2199.0_W213.0_H147.0", 
+    "human_readable": "XCUIElementTypeButton_456.0_2199.0_213.0_147.0_XCUIElementTypeButton_fffffffffc3ff99ff3cff72ff727e627e467f4e7f4eff3cff99ffc3fffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NTU4NWRiMGMzYzg2ZDE5NWYxZjZiM2FlNjZjNDk3OGQ.png", 
+    "index": "2", 
+    "is_transformed": true, 
+    "screen_hash": "1cc0b0c1d4ae929abe3113cff651daa7", 
+    "tag_name": "XCUIElementTypeButton", 
+    "text": "", 
+    "width": 213.0, 
+    "x": 456.0, 
+    "y": 2199.0
+}
